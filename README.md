@@ -1,6 +1,10 @@
+<h1 align="center">
+<img alt="Capa do trabalho" src="GSTI.png" width="650px">
+</h1>
+
 # Trabalho Final - G2
 
-Este projeto é um trabalho de avaliação para a G2 de *Gerenciamento de Servições de TI*, onde deverá ser feito um script para ler arquivos web e transformá-los em uma planilha.
+Este projeto é um trabalho de avaliação para a G2 de *Gerenciamento de Servições de TI*, onde deverá ser feito um script para ler arquivos web e converte-los para uma planilha.
 
 Como executar o trabalho
 =================
@@ -34,7 +38,5 @@ Após realizar o download, você deverá descompactar o projeto e salvá-lo em u
 
 **3. Abrir o Git Bash**
 
-Agora, você deve abrir o seu Git Bash e acessar o diretório em que salvou o projeto com o comando *'cd (diretório)'*.
+Agora, você deve abrir o seu Git Bash e acessar o diretório em que salvou o projeto com o comando *'cd (diretório)'* e executar o arquivo do projeto.
 
-
-‼️ Ainda em contrução ‼️
