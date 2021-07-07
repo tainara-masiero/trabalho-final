@@ -43,4 +43,3 @@ Agora, você deve abrir o seu Git Bash e acessar o diretório em que salvou o pr
 <h1 align="center">
 <img alt="Gif mostrando o terceiro passo" src="passo 3.gif" width="650px">
 </h1>
-
