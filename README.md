@@ -36,7 +36,11 @@ Após realizar o download, você deverá descompactar o projeto e salvá-lo em u
 <img alt="Gif mostrando o segundo passo" src="passo 2.gif" width="650px">
 </h1>
 
-**3. Abrir o Git Bash**
+**3. Git Bash**
 
-Agora, você deve abrir o seu Git Bash e acessar o diretório em que salvou o projeto com o comando *'cd (diretório)'* e executar o arquivo do projeto.
+Agora, você deve abrir o seu Git Bash e acessar o diretório em que salvou o projeto com o comando *'cd (diretório)'* e executar o arquivo .sh do projeto com o comando *'bash nomedoarquivo.sh'*.
+
+<h1 align="center">
+<img alt="Gif mostrando o terceiro passo" src="passo 3.gif" width="650px">
+</h1>
 
